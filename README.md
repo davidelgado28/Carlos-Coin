@@ -38,7 +38,7 @@ Make sure you have the following installed on your machine: 
 
 bash
 
-git clone https://github.com/YOUR_USERNAME/carlos-coin.git
+git clone https://github.com/davidelgado28/Carlos-Coin.git
 cd carlos-coin
 
 2. Install the required dependencies: 
