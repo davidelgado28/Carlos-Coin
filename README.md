@@ -7,15 +7,13 @@ A standard, secure, and open-source ERC-20 token smart contract built with Solid
 text
 
 carlos-coin/
-├── contracts/          # Solidity smart contracts
+├── contracts/          
 │   └── CarlosCoin.sol
-├── scripts/            # Deployment and interaction scripts
+├── scripts/           
 │   └── deploy.js
-├── .env.example        # Template for environment variables
-├── hardhat.config.js   # Hardhat configuration file
-└── package.json        # Project dependencies and custom scripts
-
-Use code with caution.
+├── .env.example       
+├── hardhat.config.js  
+└── package.json        
 
 ### Features
 
