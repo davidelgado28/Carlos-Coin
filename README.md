@@ -2,6 +2,8 @@
 
 A standard, secure, and open-source ERC-20 token smart contract built with Solidity and managed using the Hardhat development environment. This project uses audited contract libraries from OpenZeppelin to ensure secure minting and token mechanics. 
 
+---
+
 ### Project Structure
 
 text
@@ -13,7 +15,9 @@ carlos-coin/
 │   └── deploy.js
 ├── .env.example       
 ├── hardhat.config.js  
-└── package.json        
+└── package.json 
+
+---
 
 ### Features
 
@@ -21,7 +25,7 @@ carlos-coin/
 * **Fixed Supply:** Mints a predetermined number of tokens directly to the deployer's wallet upon creation.
 * **Production-Ready Security:** Inherits from OpenZeppelin's standard ERC-20 contract to eliminate common vulnerability vectors.
 
-### Getting Started
+---
 
 ### Prerequisites
 
@@ -29,6 +33,8 @@ Make sure you have the following installed on your machine: 
 
 * [Node.js](https://nodejs.org/) (v18 or higher recommended)
 * [npm](https://www.npmjs.com/) (comes packaged with Node)
+
+---
 
 ### Installation
 
@@ -44,6 +50,8 @@ cd carlos-coin
 bash
 
 npm install
+
+---
 
 ### Compilation
 
